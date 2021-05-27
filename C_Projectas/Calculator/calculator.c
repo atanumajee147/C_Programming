@@ -1,3 +1,5 @@
+// This is a  Basic Calculator 
+// read the pdf for output this c program 
 # include<stdio.h>
 
 int main(){
