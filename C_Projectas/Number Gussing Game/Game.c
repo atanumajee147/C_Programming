@@ -7,7 +7,7 @@ int main()
     int number, guess, attempts = 1;
     srand(time(0));
     number = rand() % 100 + 1;
-   //printf("The number is : %d \n", number);//(we are create the game is interesting hide the guess number )
+   printf("The number is : %d \n", number);//(we are create the game is interesting hide the guess number )
     // we are Enter the loop
     do
     {
@@ -27,6 +27,9 @@ int main()
         attempts++;
 
     } while (guess != number); // whan you are chouse the currect answer than stop the running loop   
-
+if (number==guess){ 
+    printf(" \n \t");
+    printf("*** ^_^ ==> Congaculation <== ^_^ *** \n \n");
+}
     return 0;
 }
