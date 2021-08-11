@@ -1,0 +1,13 @@
+	 	 ******** Multiplication Table Generator ******** 
+ 
+ Your Multiplication table is :  
+ 	 	 147 X 1 = 147 
+ 	 	 147 X 2 = 294 
+ 	 	 147 X 3 = 441 
+ 	 	 147 X 4 = 588 
+ 	 	 147 X 5 = 735 
+ 	 	 147 X 6 = 882 
+ 	 	 147 X 7 = 1029 
+ 	 	 147 X 8 = 1176 
+ 	 	 147 X 9 = 1323 
+ 	 	 147 X 10 = 1470 
